@@ -1,0 +1,9 @@
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\bin\Release\CompromissosTests1.dll
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\bin\Release\CompromissosTests1.pdb
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\bin\Release\Compromissos.exe
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\bin\Release\Compromissos.pdb
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\obj\Release\CompromissosTests1.csprojResolveAssemblyReference.cache
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\obj\Release\CompromissosTests1.dll
+D:\FAETERJ\Aulas\PAV\Compromissos\CompromissosTests1\obj\Release\CompromissosTests1.pdb
